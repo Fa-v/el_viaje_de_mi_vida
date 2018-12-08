@@ -1,6 +1,6 @@
 ### Ruta Madrid - Polonia
 
-- Salida Madrid
+- Salida Madrid Chamartín
 - Primera parada Paris
   - Cómo llegar: en avión
   - Dónde dormir: [La Maison Favart](https://www.lamaisonfavart.fr/), 5, Rue de Marivaux | 2nd Arr, 75002 París
